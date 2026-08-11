@@ -1,30 +1,32 @@
-# 永猎计算器 YongLie Calculator
+# CalculatorClaw 永猎计算器
 
-> **交易者的随身算盘:黄金分割、期货建仓、还款计算、交易记账,一个 App 全包。**
+> **交易者的随身算盘:黄金分割、期货建仓、交易记账,一个 App 全包。**
+> The trader's pocket calculator — golden ratio, futures sizing and trade journaling in one app.
 
-![版本](https://img.shields.io/badge/版本-v1.0.0-blue) ![平台](https://img.shields.io/badge/平台-Android-green) ![体积](https://img.shields.io/badge/体积-%3C100KB-orange) ![模式](https://img.shields.io/badge/主界面免费-专业功能会员-red)
+![版本](https://img.shields.io/badge/版本-v2.0.0-blue) ![平台](https://img.shields.io/badge/平台-Android-green) ![语言](https://img.shields.io/badge/语言-中文%20%2B%20English-orange) ![体积](https://img.shields.io/badge/体积-%3C100KB-yellowgreen) ![模式](https://img.shields.io/badge/主界面免费-专业功能会员-red)
 
 ---
 
-## 📲 立即下载(最新版 v1.0.0)
+## 📲 立即下载(最新版 v2.0.0)
 
 | 你的设备 | 下载链接 |
 |---|---|
-| **全部安卓手机(通用包)** | [⬇️ 下载 YongLie-Calculator-v1.0.0.apk](https://github.com/tomchenri/yonglie-calculator-dist/releases/download/v1.0.0/YongLie-Calculator-v1.0.0.apk) |
+| **全部安卓手机(通用包)** | [⬇️ 下载 CalculatorClaw-v2.0.0.apk](https://github.com/tomchenri/CalculatorClaw-dist/releases/download/v2.0.0/CalculatorClaw-v2.0.0.apk) |
 
 > 🚀 **国内下载加速**:在下载链接前面加上 `https://gh-proxy.com/` 或 `https://ghfast.top/` 即可提速。
 > 安装时提示「未知来源」选允许即可。
+> 🌐 **English UI supported**:界面语言跟随系统,手机设为英文即自动切换。
 
-## ✨ 四大功能
+## ✨ 核心功能
 
 | 功能 | 说明 |
 |---|---|
 | **黄金分割计算** 🔒 | 输入高低点,秒出 0.382 / 0.5 / 0.618 / 1.382 / 1.5 / 1.618 / 2.0 / 2.5 八档支撑压力位,上涨/下跌趋势双模式 |
-| **期货建仓计算** 🔒 | 全品种保证金/手续费速查,建仓、加仓、止损止盈、仓位风险一气呵成,数据可保存复用 |
-| **交易记录管理** 🔒 | 逐笔记账、胜率统计、盈亏分析、数据导出备份,无限条数 |
-| **还款计算** 🔒 | 等本期还款试算 |
+| **期货建仓计算** 🔒 | 70+ 国内品种保证金/最小变动价内置速查,建仓、加仓、减仓、止损止盈、盈亏比一气呵成,数据可保存复用 |
+| **交易记录管理** 🔒 | 逐笔记账、胜率统计、盈亏分析、CSV 导出备份,无限条数 |
+| **多语言** | 中文 / English 界面,跟随系统自动切换 |
 
-（🔒 = 会员功能；主界面与「我的」页免费开放）
+（🔒 = 会员功能;主界面与「我的」页免费开放）
 
 ## 💰 价格与开通
 
@@ -52,11 +54,15 @@ A: 所有计算都在你手机本地完成,不注册、不登录、不上传任�
 **Q: 计算结果构成投资建议吗?**
 A: 不构成。本 App 是纯计算工具,所有结果仅为数学计算,买卖决策与盈亏由你自己负责。
 
-**Q: 和「永猎选股/选币」是一家吗?**
-A: 是的,永猎家族第三款产品,同一套会员体系(激活码不通用,各买各的)。
+**Q: 和「永猎选股 CoinClaw / StockClaw」是一家吗?**
+A: 是的,永猎家族产品,同一套会员体系(激活码不通用,各买各的)。
 
 **Q: 苹果手机能用吗?**
 A: 目前仅安卓版。
+
+## 📜 更新日志
+
+- **v2.0.0**:品牌升级 CalculatorClaw;新增完整英文界面;全新投资主题图标;个人信息页显示版本号
 
 ## ⚠️ 免责声明
 
@@ -64,4 +70,4 @@ A: 目前仅安卓版。
 
 ---
 
-*永猎计算器 YongLie Calculator · 源码闭源,本页仅提供官方安装包 · 客服 QQ 群:1033097604*
+*CalculatorClaw 永猎计算器 · 本页仅提供官方安装包 · 客服 QQ 群:1033097604*
