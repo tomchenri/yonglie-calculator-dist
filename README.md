@@ -3,15 +3,15 @@
 > **交易者的随身算盘:黄金分割、期货建仓、交易记账,一个 App 全包。**
 > The trader's pocket calculator — golden ratio, futures sizing and trade journaling in one app.
 
-![版本](https://img.shields.io/badge/版本-v2.0.0-blue) ![平台](https://img.shields.io/badge/平台-Android-green) ![语言](https://img.shields.io/badge/语言-中文%20%2B%20English-orange) ![体积](https://img.shields.io/badge/体积-%3C100KB-yellowgreen) ![模式](https://img.shields.io/badge/主界面免费-专业功能会员-red)
+![版本](https://img.shields.io/badge/版本-v2.1.0-blue) ![平台](https://img.shields.io/badge/平台-Android-green) ![语言](https://img.shields.io/badge/语言-中文%20%2B%20English-orange) ![体积](https://img.shields.io/badge/体积-%3C100KB-yellowgreen) ![模式](https://img.shields.io/badge/主界面免费-专业功能会员-red)
 
 ---
 
-## 📲 立即下载(最新版 v2.0.0)
+## 📲 立即下载(最新版 v2.1.0)
 
 | 你的设备 | 下载链接 |
 |---|---|
-| **全部安卓手机(通用包)** | [⬇️ 下载 CalculatorClaw-v2.0.0.apk](https://github.com/tomchenri/CalculatorClaw-dist/releases/download/v2.0.0/CalculatorClaw-v2.0.0.apk) |
+| **全部安卓手机(通用包)** | [⬇️ 下载 CalculatorClaw-v2.1.0.apk](https://github.com/tomchenri/CalculatorClaw-dist/releases/download/v2.1.0/CalculatorClaw-v2.1.0.apk) |
 
 > 🚀 **国内下载加速**:在下载链接前面加上 `https://gh-proxy.com/` 或 `https://ghfast.top/` 即可提速。
 > 安装时提示「未知来源」选允许即可。
@@ -62,7 +62,7 @@ A: 目前仅安卓版。
 
 ## 📜 更新日志
 
-- **v2.0.0**:品牌升级 CalculatorClaw;新增完整英文界面;全新投资主题图标;个人信息页显示版本号
+- **v2.1.0**:品牌升级 CalculatorClaw;新增完整英文界面;全新投资主题图标;个人信息页显示版本号
 
 ## ⚠️ 免责声明
 
